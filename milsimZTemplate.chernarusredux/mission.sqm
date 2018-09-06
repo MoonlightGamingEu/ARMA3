@@ -8,14 +8,14 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=41;
+		nextID=44;
 	};
 	class Camera
 	{
-		pos[]={3708.5862,410.25964,5993.7246};
-		dir[]={-0.81871974,-0.53237343,-0.21568875};
-		up[]={-0.51489198,0.84641516,-0.135648};
-		aside[]={-0.25478837,1.0505319e-006,0.96713823};
+		pos[]={3714.9819,414.47827,5999.7725};
+		dir[]={-0.8712455,-0.35489702,-0.33943653};
+		up[]={-0.33080629,0.93480968,-0.12888288};
+		aside[]={-0.36307088,2.063578e-006,0.93190616};
 	};
 };
 binarizationWanted=0;
@@ -24,7 +24,6 @@ addons[]=
 	"A3_Characters_F",
 	"A3_Weapons_F",
 	"tfar_handhelds",
-	"A3_Characters_F_Orange_Headgear",
 	"A3_Modules_F_Curator_Curator",
 	"A3_Modules_F",
 	"bwa3_units",
@@ -54,7 +53,7 @@ class AddonsMetaData
 {
 	class List
 	{
-		items=28;
+		items=27;
 		class Item0
 		{
 			className="A3_Characters_F";
@@ -77,173 +76,166 @@ class AddonsMetaData
 		};
 		class Item3
 		{
-			className="A3_Characters_F_Orange";
-			name="Arma 3 Orange - Characters and Clothing";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item4
-		{
 			className="A3_Modules_F_Curator";
 			name="Arma 3 Zeus Update - Scripted Modules";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item5
+		class Item4
 		{
 			className="A3_Modules_F";
 			name="Arma 3 Alpha - Scripted Modules";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
-		class Item6
+		class Item5
 		{
 			className="bwa3_units";
 			name="Bundeswehr - Characters and Clothing";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item7
+		class Item6
 		{
 			className="bwa3_g36";
 			name="Bundeswehr - G36";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item8
+		class Item7
 		{
 			className="bwa3_optics";
 			name="Bundeswehr - Weapon Optics";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item9
+		class Item8
 		{
 			className="bwa3_attachments";
 			name="Bundeswehr - Weapon Attachments";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item10
+		class Item9
 		{
 			className="bwa3_comp_ace";
 			name="Bundeswehr - ACE3";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item11
+		class Item10
 		{
 			className="bwa3_p8";
 			name="Bundeswehr - Pistols and Submachine Guns";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item12
+		class Item11
 		{
 			className="bwa3_vector";
 			name="Bundeswehr - Vector Rangefinder";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item13
+		class Item12
 		{
 			className="bwa3_navipad";
 			name="Bundeswehr - NaviPad";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item14
+		class Item13
 		{
 			className="ace_nightvision";
 			name="ACE3 - Night Vision";
 			author="ACE-Team";
 			url="http://ace3mod.com/";
 		};
-		class Item15
+		class Item14
 		{
 			className="bwa3_headgear";
 			name="Bundeswehr - Hats and Helmets";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item16
+		class Item15
 		{
 			className="bwa3_uniforms";
 			name="Bundeswehr - Uniforms";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item17
+		class Item16
 		{
 			className="bwa3_handgrenades";
 			name="Bundeswehr - Hand Grenades";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item18
+		class Item17
 		{
 			className="ace_hearing";
 			name="ACE3 - Hearing";
 			author="ACE-Team";
 			url="http://ace3mod.com/";
 		};
-		class Item19
+		class Item18
 		{
 			className="bwa3_vests";
 			name="Bundeswehr - Vests";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item20
+		class Item19
 		{
 			className="ace_flashlights";
 			name="ACE3 - Flashlights";
 			author="ACE-Team";
 			url="http://ace3mod.com/";
 		};
-		class Item21
+		class Item20
 		{
 			className="ace_medical";
 			name="ACE3 - Medical";
 			author="ACE-Team";
 			url="http://ace3mod.com/";
 		};
-		class Item22
+		class Item21
 		{
 			className="bwa3_mg4";
 			name="Bundeswehr - MG4";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item23
+		class Item22
 		{
 			className="bwa3_pzf3";
 			name="Bundeswehr - Panzerfaust 3";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item24
+		class Item23
 		{
 			className="bwa3_eagle";
 			name="Bundeswehr - Eagle";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item25
+		class Item24
 		{
 			className="rhsusf_c_RG33L";
 			name="RG33L MRAP";
 			author="Red Hammer Studios";
 			url="http://www.rhsmods.org/";
 		};
-		class Item26
+		class Item25
 		{
 			className="bwa3_ammoboxes";
 			name="Bundeswehr - Ammo Boxes";
 			author="BW-Mod";
 			url="http://www.bwmod.de/index.php/inhalt/download";
 		};
-		class Item27
+		class Item26
 		{
 			className="lt_transfer";
 			name="Loadout Transfer";
@@ -2585,7 +2577,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=23;
+		items=25;
 		class Item0
 		{
 			dataType="Group";
@@ -2630,7 +2622,6 @@ class Mission
 							radio="TFAR_rf7800str";
 							gps="ItemGPS";
 							goggles="G_Goggles_VR";
-							headgear="H_WirelessEarpiece_F";
 						};
 					};
 					id=1;
@@ -2791,7 +2782,6 @@ class Mission
 							radio="TFAR_rf7800str";
 							gps="ItemGPS";
 							goggles="G_Goggles_VR";
-							headgear="H_WirelessEarpiece_F";
 						};
 					};
 					id=3;
@@ -5852,7 +5842,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={3712.6401,402.07706,5974.7524};
-				angles[]={-0,5.1633625,0};
+				angles[]={0,5.1633625,0};
 			};
 			side="Empty";
 			flags=4;
@@ -5968,7 +5958,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={3707.8091,402.07706,5978.5654};
-				angles[]={-0,5.5188026,0};
+				angles[]={0,5.5188026,0};
 			};
 			side="Empty";
 			flags=4;
@@ -6199,7 +6189,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={3708.3748,402.07706,5991.0112};
-				angles[]={-0,0.51404262,0};
+				angles[]={0,0.51404262,0};
 			};
 			side="Empty";
 			flags=4;
@@ -6356,7 +6346,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={3689.6074,402.00262,5999.4302};
-				angles[]={-0,1.1647667,0};
+				angles[]={0,1.1647667,0};
 			};
 			side="Empty";
 			flags=4;
@@ -6513,16 +6503,307 @@ class Mission
 				nAttributes=7;
 			};
 		};
+		class Item23
+		{
+			dataType="Group";
+			side="Civilian";
+			class Entities
+			{
+				items=1;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={3702.5811,402.32843,6009.4766};
+						angles[]={0,2.4278052,0};
+					};
+					side="Civilian";
+					flags=7;
+					class Attributes
+					{
+						skill=1;
+						rank="COLONEL";
+						name="Z3";
+						description="Z3";
+						isPlayable=1;
+						class Inventory
+						{
+							class binocular
+							{
+								name="Rangefinder";
+							};
+							class uniform
+							{
+								typeName="U_C_Protagonist_VR";
+								isBackpack=0;
+							};
+							class backpack
+							{
+								typeName="TFAR_rt1523g_bwmod";
+								isBackpack=1;
+							};
+							map="ItemMap";
+							compass="ItemCompass";
+							watch="TFAR_microdagr";
+							radio="TFAR_rf7800str";
+							gps="ItemGPS";
+							goggles="G_Goggles_VR";
+						};
+					};
+					id=42;
+					type="C_Protagonist_VR_F";
+					atlOffset=0.00048828125;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="acex_headless_blacklist";
+							expression="_this setVariable [""acex_headless_blacklist"",_value,true]";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute1
+						{
+							property="allowDamage";
+							expression="_this allowdamage _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute2
+						{
+							property="speaker";
+							expression="_this setspeaker _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"STRING"
+										};
+									};
+									value="Male04GRE";
+								};
+							};
+						};
+						class Attribute3
+						{
+							property="pitch";
+							expression="_this setpitch _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"SCALAR"
+										};
+									};
+									value=1.03;
+								};
+							};
+						};
+						class Attribute4
+						{
+							property="enableStamina";
+							expression="_this enablestamina _value;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						nAttributes=5;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=41;
+			atlOffset=0.00048828125;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="groupID";
+					expression="[_this, _value] call CBA_fnc_setCallsign";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="Z3";
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="acex_headless_blacklist";
+					expression="_this setVariable [""acex_headless_blacklist"",_value,true]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				nAttributes=2;
+			};
+		};
+		class Item24
+		{
+			dataType="Logic";
+			class PositionInfo
+			{
+				position[]={3703.1411,402.327,6009.834};
+			};
+			id=43;
+			type="ModuleCurator_F";
+			atlOffset=0.00048828125;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ModuleCurator_F_Owner";
+					expression="_this setVariable ['Owner',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="Z3";
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ModuleCurator_F_Forced";
+					expression="_this setVariable ['Forced',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				class Attribute2
+				{
+					property="ModuleCurator_F_Name";
+					expression="_this setVariable ['Name',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="Z3";
+						};
+					};
+				};
+				class Attribute3
+				{
+					property="ModuleCurator_F_Addons";
+					expression="_this setVariable ['Addons',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=3;
+						};
+					};
+				};
+				nAttributes=4;
+			};
+		};
 	};
 	class Connections
 	{
 		class LinkIDProvider
 		{
-			nextID=3;
+			nextID=4;
 		};
 		class Links
 		{
-			items=3;
+			items=4;
 			class Item0
 			{
 				linkID=0;
@@ -6548,6 +6829,16 @@ class Mission
 				linkID=2;
 				item0=40;
 				item1=39;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item3
+			{
+				linkID=3;
+				item0=43;
+				item1=42;
 				class CustomData
 				{
 					type="Sync";
